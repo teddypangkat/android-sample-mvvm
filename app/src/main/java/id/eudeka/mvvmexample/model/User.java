@@ -1,4 +1,4 @@
-package com.educa62.mvvmexample.model;
+package id.eudeka.mvvmexample.model;
 
 public class User {
 

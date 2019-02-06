@@ -1,4 +1,4 @@
-package com.educa62.mvvmexample.view;
+package id.eudeka.mvvmexample.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,9 +6,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.educa62.mvvmexample.model.User;
-import com.educa62.mvvmexample.R;
-import com.educa62.mvvmexample.viewmodel.UserViewModel;
+import id.eudeka.mvvmexample.model.User;
+import id.eudeka.mvvmexample.R;
+import id.eudeka.mvvmexample.viewmodel.UserViewModel;
 
 
 public class MainActivity extends AppCompatActivity {

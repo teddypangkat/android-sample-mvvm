@@ -1,4 +1,4 @@
-package com.educa62.mvvmexample;
+package id.eudeka.mvvmexample;
 
 import org.junit.Test;
 

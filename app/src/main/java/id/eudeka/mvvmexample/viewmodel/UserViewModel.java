@@ -1,10 +1,10 @@
-package com.educa62.mvvmexample.viewmodel;
+package id.eudeka.mvvmexample.viewmodel;
 
 import android.content.Context;
 import android.text.TextUtils;
 import android.widget.Toast;
 
-import com.educa62.mvvmexample.model.User;
+import id.eudeka.mvvmexample.model.User;
 
 
 public class UserViewModel {
